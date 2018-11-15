@@ -1,0 +1,7 @@
+C:\Users\Nick\source\repos\inv checker\inv checker\bin\Debug\inv checker.exe.config
+C:\Users\Nick\source\repos\inv checker\inv checker\bin\Debug\inv checker.exe
+C:\Users\Nick\source\repos\inv checker\inv checker\bin\Debug\inv checker.pdb
+C:\Users\Nick\source\repos\inv checker\inv checker\obj\Debug\inv checker.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\inv checker\inv checker\obj\Debug\inv checker.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\inv checker\inv checker\obj\Debug\inv checker.exe
+C:\Users\Nick\source\repos\inv checker\inv checker\obj\Debug\inv checker.pdb

@@ -1,0 +1,7 @@
+C:\Users\Nick\source\repos\Q's 2\Q's 2\bin\Debug\Q's 2.exe.config
+C:\Users\Nick\source\repos\Q's 2\Q's 2\bin\Debug\Q's 2.exe
+C:\Users\Nick\source\repos\Q's 2\Q's 2\bin\Debug\Q's 2.pdb
+C:\Users\Nick\source\repos\Q's 2\Q's 2\obj\Debug\Q's 2.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\Q's 2\Q's 2\obj\Debug\Q's 2.exe
+C:\Users\Nick\source\repos\Q's 2\Q's 2\obj\Debug\Q's 2.pdb
+C:\Users\Nick\source\repos\Q's 2\Q's 2\obj\Debug\Q's 2.csprojAssemblyReference.cache
